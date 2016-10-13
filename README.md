@@ -1,0 +1,2 @@
+# LTtheme
+Magento Theme
